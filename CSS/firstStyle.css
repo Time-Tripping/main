@@ -1,0 +1,23 @@
+#map {
+    margin-top: 10vw;
+    padding-top: 5vw;
+    height: 45vw;
+}
+
+input {
+    margin: 1vw;
+    font-size: 1vw;
+}
+
+label {
+    margin: 1vw;
+    font-size: 1vw;
+}
+
+button {
+    height:2vw;
+}
+
+a {
+    color: black;
+}
